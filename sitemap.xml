@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://mac.axiao.vip/atom/</loc>
-    
-    <lastmod>2024-05-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://mac.axiao.vip/ps2022/</loc>
     
     <lastmod>2024-05-11</lastmod>
@@ -56,27 +47,6 @@
 
   
   <url>
-    <loc>https://mac.axiao.vip/tags/atom/</loc>
-    <lastmod>2024-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mac.axiao.vip/tags/Markdown/</loc>
-    <lastmod>2024-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://mac.axiao.vip/tags/hexo/</loc>
-    <lastmod>2024-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://mac.axiao.vip/tags/Adobe%E8%BD%AF%E4%BB%B6/</loc>
     <lastmod>2024-05-11</lastmod>
     <changefreq>weekly</changefreq>
@@ -91,13 +61,6 @@
   </url>
   
 
-  
-  <url>
-    <loc>https://mac.axiao.vip/categories/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2024-05-11</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
   <url>
     <loc>https://mac.axiao.vip/categories/%E7%94%B5%E8%84%91%E8%BD%AF%E4%BB%B6/</loc>
